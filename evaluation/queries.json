@@ -1,0 +1,102 @@
+[
+  {
+    "query": "a person exercising in a gym",
+    "relevant_images": ["gym.png"],
+    "difficulty": "easy"
+  },
+  {
+    "query": "someone doing a workout",
+    "relevant_images": ["gym.png"],
+    "difficulty": "medium"
+  },
+  {
+    "query": "physical fitness and training",
+    "relevant_images": ["gym.png"],
+    "difficulty": "hard"
+  },
+  {
+    "query": "a golden retriever puppy resting outdoors",
+    "relevant_images": ["dog.png"],
+    "difficulty": "easy"
+  },
+  {
+    "query": "a domestic canine animal",
+    "relevant_images": ["dog.png"],
+    "difficulty": "medium"
+  },
+  {
+    "query": "a playful pet outdoors",
+    "relevant_images": ["dog.png"],
+    "difficulty": "hard"
+  },
+  {
+    "query": "a cat sitting",
+    "relevant_images": ["cat.png"],
+    "difficulty": "easy"
+  },
+  {
+    "query": "a domestic feline",
+    "relevant_images": ["cat.png"],
+    "difficulty": "medium"
+  },
+  {
+    "query": "a delicious pizza",
+    "relevant_images": ["pizza.png"],
+    "difficulty": "easy"
+  },
+  {
+    "query": "Italian food for dinner",
+    "relevant_images": ["pizza.png"],
+    "difficulty": "medium"
+  },
+  {
+    "query": "a sports car parked on pavement",
+    "relevant_images": ["car.png"],
+    "difficulty": "easy"
+  },
+  {
+    "query": "a motor vehicle",
+    "relevant_images": ["car.png"],
+    "difficulty": "medium"
+  },
+  {
+    "query": "a sandy beach",
+    "relevant_images": ["beach.png"],
+    "difficulty": "easy"
+  },
+  {
+    "query": "a relaxing coastal landscape",
+    "relevant_images": ["beach.png"],
+    "difficulty": "medium"
+  },
+  {
+    "query": "a mountain landscape",
+    "relevant_images": ["mountain.png"],
+    "difficulty": "easy"
+  },
+  {
+    "query": "a beautiful mountainous region",
+    "relevant_images": ["mountain.png"],
+    "difficulty": "medium"
+  },
+  {
+    "query": "a laptop computer",
+    "relevant_images": ["laptop.png"],
+    "difficulty": "easy"
+  },
+  {
+    "query": "a portable device for programming",
+    "relevant_images": ["laptop.png"],
+    "difficulty": "hard"
+  },
+  {
+    "query": "a peaceful place in nature",
+    "relevant_images": ["beach.png", "mountain.png"],
+    "difficulty": "hard"
+  },
+  {
+    "query": "an animal commonly kept as a pet",
+    "relevant_images": ["dog.png", "cat.png"],
+    "difficulty": "hard"
+  }
+]
