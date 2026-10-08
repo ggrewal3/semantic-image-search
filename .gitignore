@@ -1,0 +1,11 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Local test images (keep the folder, ignore its contents)
+images/*
+!images/.gitkeep
